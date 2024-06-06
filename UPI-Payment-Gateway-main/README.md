@@ -1,6 +1,4 @@
-# UPI Payment Gateway
 
-  **https://youtu.be/Xlg78BR7krg**
 
 ## Tech 
 MERN Stack
