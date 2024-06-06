@@ -42,23 +42,7 @@ MERN Stack
   
     npm start
 
-##  Generate Merchant Key
 
-👉 open given site and create new account or login with existing account.
-   
-   **https://upigateway.com**
-
-👉 for first time login you get TRIAL plan for 1 week.
-
-👉 now click on Connect Merchant and connect any merchant account of your.
-
-👉 now click on Connect Merchant and connect any merchant account of your.
-
-👉 for connect merchant account, you need staff account of that merchant. all steps for create that account are given in their site.
-
-👉 After Successfully done all above step, open API Keys tab.
-
-👉 Copy API Key and paste in .env file for merchant key.
 
 ## Download Node JS : 
 
